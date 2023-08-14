@@ -50,9 +50,7 @@
                     "z": 0.0
                 },
                 "area": 0.0,
-                "volume": 0.0,
-                "density": 0,
-                "mass": 0.0
+                "volume": 0.0
             },
             "transform": {
                 "origin": {
@@ -98,9 +96,7 @@
                     "z": 0.0
                 },
                 "area": 0.0,
-                "volume": 0.0,
-                "density": 0,
-                "mass": 0.0
+                "volume": 0.0
             },
             "transform": {
                 "origin": {
@@ -146,9 +142,7 @@
                     "z": 0.0
                 },
                 "area": 0.0,
-                "volume": 0.0,
-                "density": 0,
-                "mass": 0.0
+                "volume": 0.0
             },
             "transform": {
                 "origin": {
@@ -195,9 +189,7 @@
                     "z": 0.7252153894078569
                 },
                 "area": 11.492904041023065,
-                "volume": 2.4609999210801186,
-                "density": 0.00785,
-                "mass": 0.01931884938047893
+                "volume": 2.4609999210801186
             },
             "transform": {
                 "origin": {
@@ -249,9 +241,7 @@
                     "z": 0.8724100262511072
                 },
                 "area": 7.679886509484012,
-                "volume": 1.08901988058336,
-                "density": 0.00785,
-                "mass": 0.008548806062579375
+                "volume": 1.08901988058336
             },
             "transform": {
                 "origin": {
@@ -353,8 +343,7 @@
                 },
                 "area": 7.679886509484012,
                 "volume": 1.08901988058336
-            },
-            "material_category": "Metal_Ferrous_Steel"
+            }
         },
         "bbdf9f22-060c-11ec-ac81-02ef91e90f5f": {
             "name": "Ramp",
@@ -372,8 +361,7 @@
                 },
                 "area": 972.5133576983831,
                 "volume": 475.4467550003775
-            },
-            "material_category": "Other"
+            }
         },
         "bbe89f86-060c-11ec-8111-02ef91e90f5f": {
             "name": "Blade mount",
@@ -391,8 +379,7 @@
                 },
                 "area": 460.81972516789995,
                 "volume": 241.47060298879188
-            },
-            "material_category": "Other"
+            }
         },
         "bbee1dec-060c-11ec-aabe-02ef91e90f5f": {
             "name": "Fixed blade",
@@ -410,8 +397,7 @@
                 },
                 "area": 73.20000000000002,
                 "volume": 21.600000000000012
-            },
-            "material_category": "Metal_Ferrous_Steel"
+            }
         },
         "bbee44f6-060c-11ec-bd48-02ef91e90f5f": {
             "name": "Bracket",
@@ -429,8 +415,7 @@
                 },
                 "area": 54.62210558409988,
                 "volume": 11.563476189720092
-            },
-            "material_category": "Other"
+            }
         },
         "bbeeba42-060c-11ec-9ec2-02ef91e90f5f": {
             "name": "Handle",
@@ -448,8 +433,7 @@
                 },
                 "area": 615.1341275332427,
                 "volume": 473.32693554949464
-            },
-            "material_category": "Other"
+            }
         },
         "bbef0864-060c-11ec-82bb-02ef91e90f5f": {
             "name": "Bolt blade holder",
@@ -467,8 +451,7 @@
                 },
                 "area": 7.679886509484006,
                 "volume": 1.0890198805833573
-            },
-            "material_category": "Metal_Ferrous_Steel"
+            }
         },
         "bbef567a-060c-11ec-a807-02ef91e90f5f": {
             "name": "Bolt handle",
@@ -486,8 +469,7 @@
                 },
                 "area": 7.679886509484011,
                 "volume": 1.0890198805833582
-            },
-            "material_category": "Metal_Ferrous_Steel"
+            }
         },
         "bbefa4b6-060c-11ec-b68e-02ef91e90f5f": {
             "name": "Bolt M10-1",
@@ -505,8 +487,7 @@
                 },
                 "area": 11.492904041023065,
                 "volume": 2.4609999210801186
-            },
-            "material_category": "Metal_Ferrous_Steel"
+            }
         }
     },
     "contacts": [
@@ -1280,8 +1261,6 @@
         "body_count": 7,
         "area": 2191.6490890025934,
         "volume": 1225.5858094895511,
-        "density": 0.007849999999999998,
-        "mass": 9.620848604492974,
         "center_of_mass": {
             "type": "Point3D",
             "x": 18.66832272944192,

@@ -27,9 +27,7 @@
                     "z": 37.53999999999999
                 },
                 "area": 20113.548799999997,
-                "volume": 24757.62790399999,
-                "density": 0.00785,
-                "mass": 194.3473790463999
+                "volume": 24757.62790399999
             },
             "transform": {
                 "origin": {
@@ -76,9 +74,7 @@
                     "z": 37.53999999999999
                 },
                 "area": 6708.851199999999,
-                "volume": 8258.047999999997,
-                "density": 0.00785,
-                "mass": 64.82567679999997
+                "volume": 8258.047999999997
             },
             "transform": {
                 "origin": {
@@ -139,9 +135,7 @@
                     "z": 37.540000000000006
                 },
                 "area": 13404.697599999996,
-                "volume": 16499.579903999995,
-                "density": 0.007849999999999998,
-                "mass": 129.5217022463999
+                "volume": 16499.579903999995
             },
             "transform": {
                 "origin": {
@@ -214,9 +208,7 @@
                     "z": 37.54
                 },
                 "area": 27786.304205542387,
-                "volume": 33436.37478324551,
-                "density": 0.00785,
-                "mass": 262.4755420484772
+                "volume": 33436.37478324551
             },
             "transform": {
                 "origin": {
@@ -317,8 +309,7 @@
                 },
                 "area": 1370.7871999999998,
                 "volume": 1675.3514879999996
-            },
-            "material_category": "Wood"
+            }
         },
         "3b4b6050-05cc-11ec-b9f5-064a63348d37": {
             "name": "Travesa\u00f1o Corto_2",
@@ -336,8 +327,7 @@
                 },
                 "area": 1370.7872,
                 "volume": 1675.3514879999989
-            },
-            "material_category": "Wood"
+            }
         },
         "3b4baeb6-05cc-11ec-a4c7-064a63348d37": {
             "name": "Travesa\u00f1o Corto_3",
@@ -355,8 +345,7 @@
                 },
                 "area": 1370.7871999999998,
                 "volume": 1675.3514879999996
-            },
-            "material_category": "Wood"
+            }
         },
         "3b4bd5f0-05cc-11ec-a6d8-064a63348d37": {
             "name": "Travesa\u00f1o Corto_4",
@@ -374,8 +363,7 @@
                 },
                 "area": 1370.7872,
                 "volume": 1675.3514879999989
-            },
-            "material_category": "Wood"
+            }
         },
         "3b4bfcec-05cc-11ec-bde0-064a63348d37": {
             "name": "Travesa\u00f1o Largo _ 1",
@@ -393,8 +381,7 @@
                 },
                 "area": 1980.3871999999992,
                 "volume": 2449.5434879999984
-            },
-            "material_category": "Wood"
+            }
         },
         "3b4c4b1e-05cc-11ec-93f3-064a63348d37": {
             "name": "Travesa\u00f1o Largo _ 2",
@@ -412,8 +399,7 @@
                 },
                 "area": 1980.3871999999992,
                 "volume": 2449.5434879999984
-            },
-            "material_category": "Wood"
+            }
         },
         "3b4c721a-05cc-11ec-a691-064a63348d37": {
             "name": "Travesa\u00f1o Largo _ 3",
@@ -431,8 +417,7 @@
                 },
                 "area": 1980.3871999999992,
                 "volume": 2449.5434879999984
-            },
-            "material_category": "Wood"
+            }
         },
         "3b4cc050-05cc-11ec-8b73-064a63348d37": {
             "name": "Travesa\u00f1o Largo _ 4",
@@ -450,8 +435,7 @@
                 },
                 "area": 1980.3871999999992,
                 "volume": 2449.5434879999984
-            },
-            "material_category": "Wood"
+            }
         },
         "3b4ce74c-05cc-11ec-a9ce-064a63348d37": {
             "name": "Pata_1",
@@ -469,8 +453,7 @@
                 },
                 "area": 1677.2127999999998,
                 "volume": 2064.512
-            },
-            "material_category": "Wood"
+            }
         },
         "3b4d0e4c-05cc-11ec-9c6d-064a63348d37": {
             "name": "Pata_4",
@@ -488,8 +471,7 @@
                 },
                 "area": 1677.2127999999993,
                 "volume": 2064.511999999999
-            },
-            "material_category": "Wood"
+            }
         },
         "3b4d355a-05cc-11ec-9f42-064a63348d37": {
             "name": "Pata_3",
@@ -507,8 +489,7 @@
                 },
                 "area": 1677.2127999999996,
                 "volume": 2064.5119999999993
-            },
-            "material_category": "Wood"
+            }
         },
         "3b4d8388-05cc-11ec-acde-064a63348d37": {
             "name": "Pata_2",
@@ -526,8 +507,7 @@
                 },
                 "area": 1677.2127999999998,
                 "volume": 2064.5119999999993
-            },
-            "material_category": "Wood"
+            }
         },
         "3b4daaa2-05cc-11ec-bc9f-064a63348d37": {
             "name": "Body1",
@@ -545,8 +525,7 @@
                 },
                 "area": 27786.304205542387,
                 "volume": 33436.37478324551
-            },
-            "material_category": "Wood"
+            }
         }
     },
     "contacts": [
@@ -2016,8 +1995,6 @@
         "body_count": 13,
         "area": 47899.85300554238,
         "volume": 58194.002687245506,
-        "density": 0.00785,
-        "mass": 456.82292109487713,
         "center_of_mass": {
             "type": "Point3D",
             "x": 52.54000000000001,

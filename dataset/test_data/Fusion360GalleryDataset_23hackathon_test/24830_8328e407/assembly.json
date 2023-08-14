@@ -122,8 +122,7 @@
                 },
                 "area": 623.5982335021915,
                 "volume": 222.93421480348294
-            },
-            "material_category": "Metal_Ferrous"
+            }
         },
         "87ae3ce4-05ba-11ec-a905-06fd2e6e9381": {
             "name": "Part 2",
@@ -141,8 +140,7 @@
                 },
                 "area": 73.24489876845485,
                 "volume": 14.069561625842242
-            },
-            "material_category": "Other"
+            }
         },
         "87af2786-05ba-11ec-8cc9-06fd2e6e9381": {
             "name": "Part 3",
@@ -160,8 +158,7 @@
                 },
                 "area": 47.1992033717616,
                 "volume": 10.944247839896398
-            },
-            "material_category": "Metal_Non-Ferrous"
+            }
         },
         "87af4e7a-05ba-11ec-a100-06fd2e6e9381": {
             "name": "Part 4",
@@ -179,8 +176,7 @@
                 },
                 "area": 59.06883169632118,
                 "volume": 14.188948713584027
-            },
-            "material_category": "Other"
+            }
         },
         "87af9cac-05ba-11ec-8391-06fd2e6e9381": {
             "name": "Part 5",
@@ -198,8 +194,7 @@
                 },
                 "area": 139.80654951156654,
                 "volume": 26.650607708114574
-            },
-            "material_category": "Other"
+            }
         },
         "87afeab0-05ba-11ec-93bd-06fd2e6e9381": {
             "name": "Adjuster Support",
@@ -217,8 +212,7 @@
                 },
                 "area": 615.997516381658,
                 "volume": 202.16106013434458
-            },
-            "material_category": "Other"
+            }
         },
         "87b12314-05ba-11ec-ba8b-06fd2e6e9381": {
             "name": "Part 4 (1)",
@@ -236,8 +230,7 @@
                 },
                 "area": 59.06883169632118,
                 "volume": 14.18894871358403
-            },
-            "material_category": "Other"
+            }
         },
         "87b17146-05ba-11ec-81a3-06fd2e6e9381": {
             "name": "Part 2 (1)",
@@ -255,8 +248,7 @@
                 },
                 "area": 73.24489876845492,
                 "volume": 14.069545515312921
-            },
-            "material_category": "Other"
+            }
         },
         "87b282ba-05ba-11ec-8f22-06fd2e6e9381": {
             "name": "ReUse Parts",
@@ -274,8 +266,7 @@
                 },
                 "area": 188.88456748499738,
                 "volume": 53.356253861547174
-            },
-            "material_category": "Metal_Non-Ferrous"
+            }
         },
         "87dfd418-05ba-11ec-881a-06fd2e6e9381": {
             "name": "Body31",
@@ -293,8 +284,7 @@
                 },
                 "area": 61.317809989799265,
                 "volume": 13.893567226034591
-            },
-            "material_category": "Metal_Ferrous_Steel"
+            }
         },
         "87e07066-05ba-11ec-8716-06fd2e6e9381": {
             "name": "M8xDIA10 STUD",
@@ -312,8 +302,7 @@
                 },
                 "area": 15.538297346104178,
                 "volume": 2.8217637243968428
-            },
-            "material_category": "Metal_Non-Ferrous"
+            }
         },
         "87e15ad4-05ba-11ec-abb7-06fd2e6e9381": {
             "name": "M8x1 NUT",
@@ -331,8 +320,7 @@
                 },
                 "area": 5.63248052152096,
                 "volume": 0.5842926221456246
-            },
-            "material_category": "Metal_Non-Ferrous"
+            }
         },
         "87e1d036-05ba-11ec-9eb5-06fd2e6e9381": {
             "name": "M8x1 NUT (1)",
@@ -350,8 +338,7 @@
                 },
                 "area": 5.632480521520958,
                 "volume": 0.5842926221456246
-            },
-            "material_category": "Metal_Non-Ferrous"
+            }
         },
         "87e245b4-05ba-11ec-bf65-06fd2e6e9381": {
             "name": "M8xDIA10 STUD (1)",
@@ -369,8 +356,7 @@
                 },
                 "area": 15.538297346104173,
                 "volume": 2.8217637243968445
-            },
-            "material_category": "Metal_Non-Ferrous"
+            }
         },
         "87e35686-05ba-11ec-ab71-06fd2e6e9381": {
             "name": "M8x1 NUT (2)",
@@ -388,8 +374,7 @@
                 },
                 "area": 5.632480521520955,
                 "volume": 0.5842926221456243
-            },
-            "material_category": "Metal_Non-Ferrous"
+            }
         },
         "87e3cbf6-05ba-11ec-bf75-06fd2e6e9381": {
             "name": "M8xDIA10 STUD (2)",
@@ -407,8 +392,7 @@
                 },
                 "area": 15.538297346104176,
                 "volume": 2.8217637243968436
-            },
-            "material_category": "Metal_Non-Ferrous"
+            }
         },
         "87e4b62e-05ba-11ec-b86a-06fd2e6e9381": {
             "name": "M8x1 NUT (3)",
@@ -426,8 +410,7 @@
                 },
                 "area": 5.63248052152096,
                 "volume": 0.5842926221456246
-            },
-            "material_category": "Metal_Non-Ferrous"
+            }
         },
         "87e55286-05ba-11ec-90b5-06fd2e6e9381": {
             "name": "M8xDIA10 STUD (3)",
@@ -445,8 +428,7 @@
                 },
                 "area": 15.538297346104178,
                 "volume": 2.8217637243968428
-            },
-            "material_category": "Metal_Non-Ferrous"
+            }
         },
         "87e63ce4-05ba-11ec-b0a0-06fd2e6e9381": {
             "name": "Body42",
@@ -464,8 +446,7 @@
                 },
                 "area": 9.000436888540692,
                 "volume": 1.2059300901838828
-            },
-            "material_category": "Metal_Ferrous_Steel"
+            }
         },
         "87e68b3e-05ba-11ec-b3a0-06fd2e6e9381": {
             "name": "Body43",
@@ -483,8 +464,7 @@
                 },
                 "area": 9.000436888540692,
                 "volume": 1.2059300901838825
-            },
-            "material_category": "Metal_Ferrous_Steel"
+            }
         },
         "87e70030-05ba-11ec-b349-06fd2e6e9381": {
             "name": "Body44",
@@ -502,8 +482,7 @@
                 },
                 "area": 12.896011778992033,
                 "volume": 1.809744198203843
-            },
-            "material_category": "Metal_Ferrous_Steel"
+            }
         },
         "87e77550-05ba-11ec-8d91-06fd2e6e9381": {
             "name": "Body45",
@@ -521,8 +500,7 @@
                 },
                 "area": 13.0907905235146,
                 "volume": 1.8399349036048418
-            },
-            "material_category": "Metal_Ferrous_Steel"
+            }
         }
     },
     "contacts": [
@@ -8308,8 +8286,6 @@
         "body_count": 22,
         "area": 2070.1021287216145,
         "volume": 606.1427208100899,
-        "density": 0.007849999999999996,
-        "mass": 4.758220358359203,
         "center_of_mass": {
             "type": "Point3D",
             "x": 2.3443334203494604,

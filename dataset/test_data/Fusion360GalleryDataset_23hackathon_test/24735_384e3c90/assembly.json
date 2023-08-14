@@ -25,9 +25,7 @@
                     "z": -1.132431910272986
                 },
                 "area": 25.668219569974752,
-                "volume": 1.0682948831224288,
-                "density": 0.007850000000000001,
-                "mass": 0.008386114832511067
+                "volume": 1.0682948831224288
             },
             "transform": {
                 "origin": {
@@ -100,9 +98,7 @@
                     "z": -2.275137154987916
                 },
                 "area": 9.95343918773097,
-                "volume": 0.3981654499386188,
-                "density": 0.007849999999999998,
-                "mass": 0.0031255987820181567
+                "volume": 0.3981654499386188
             },
             "transform": {
                 "origin": {
@@ -196,9 +192,7 @@
                     "z": -0.07513715498792196
                 },
                 "area": 9.95343918773097,
-                "volume": 0.3981654499386188,
-                "density": 0.007849999999999998,
-                "mass": 0.0031255987820181567
+                "volume": 0.3981654499386188
             },
             "transform": {
                 "origin": {
@@ -339,8 +333,7 @@
                 },
                 "area": 0.6864334332189603,
                 "volume": 0.0390868446195068
-            },
-            "material_category": "Metal_Non-Ferrous"
+            }
         },
         "ed63814c-056b-11ec-8ad2-0ad8e3c9254f": {
             "name": "Body9",
@@ -358,8 +351,7 @@
                 },
                 "area": 0.562973403523291,
                 "volume": 0.00985203456165801
-            },
-            "material_category": "Metal_Non-Ferrous"
+            }
         },
         "ed63a848-056b-11ec-9c03-0ad8e3c9254f": {
             "name": "Bolt (1) (1) (2)",
@@ -377,8 +369,7 @@
                 },
                 "area": 0.6864334332189603,
                 "volume": 0.0390868446195067
-            },
-            "material_category": "Metal_Non-Ferrous"
+            }
         },
         "ed63f688-056b-11ec-ad9d-0ad8e3c9254f": {
             "name": "Bolt (1) (1) (1) (2)",
@@ -396,8 +387,7 @@
                 },
                 "area": 0.6864334332189606,
                 "volume": 0.03908684461950684
-            },
-            "material_category": "Metal_Non-Ferrous"
+            }
         },
         "ed644508-056b-11ec-9659-0ad8e3c9254f": {
             "name": "Body12",
@@ -415,8 +405,7 @@
                 },
                 "area": 0.5629734035232911,
                 "volume": 0.009852034561658025
-            },
-            "material_category": "Metal_Non-Ferrous"
+            }
         },
         "ed646bf6-056b-11ec-8ed0-0ad8e3c9254f": {
             "name": "Body13",
@@ -434,8 +423,7 @@
                 },
                 "area": 5.8313536246596085,
                 "volume": 0.18361917200242558
-            },
-            "material_category": "Metal_Ferrous_Steel"
+            }
         },
         "ed6555e8-056b-11ec-a393-0ad8e3c9254f": {
             "name": "Body14",
@@ -453,8 +441,7 @@
                 },
                 "area": 1.959634283113231,
                 "volume": 0.07571129546018007
-            },
-            "material_category": "Metal_Non-Ferrous"
+            }
         },
         "ed6778ca-056b-11ec-ab7a-0ad8e3c9254f": {
             "name": "Body15",
@@ -472,8 +459,7 @@
                 },
                 "area": 14.691984555498452,
                 "volume": 0.6719998126779869
-            },
-            "material_category": "Metal_Ferrous_Steel"
+            }
         },
         "ed679ff0-056b-11ec-af8c-0ad8e3c9254f": {
             "name": "Body8",
@@ -491,8 +477,7 @@
                 },
                 "area": 1.074424687527709,
                 "volume": 0.03175521854248692
-            },
-            "material_category": "Metal_Non-Ferrous"
+            }
         },
         "ed67edee-056b-11ec-9db0-0ad8e3c9254f": {
             "name": "Body10",
@@ -510,8 +495,7 @@
                 },
                 "area": 1.312243251404455,
                 "volume": 0.025508946948984205
-            },
-            "material_category": "Metal_Non-Ferrous"
+            }
         },
         "ed681536-056b-11ec-bcdf-0ad8e3c9254f": {
             "name": "Body19",
@@ -529,8 +513,7 @@
                 },
                 "area": 0.3336371398112361,
                 "volume": 0.011705574227276075
-            },
-            "material_category": "Metal_Non-Ferrous"
+            }
         },
         "ed683c40-056b-11ec-bc3b-0ad8e3c9254f": {
             "name": "Body22",
@@ -548,8 +531,7 @@
                 },
                 "area": 1.074424687527709,
                 "volume": 0.03175521854248692
-            },
-            "material_category": "Metal_Non-Ferrous"
+            }
         },
         "ed68631e-056b-11ec-81d9-0ad8e3c9254f": {
             "name": "Body23",
@@ -567,8 +549,7 @@
                 },
                 "area": 0.12864821916450206,
                 "volume": 0.003117245310524606
-            },
-            "material_category": "Metal_Non-Ferrous"
+            }
         },
         "ed68b13e-056b-11ec-b876-0ad8e3c9254f": {
             "name": "Body24",
@@ -586,8 +567,7 @@
                 },
                 "area": 0.40149554112877556,
                 "volume": 0.017812830345854885
-            },
-            "material_category": "Metal_Non-Ferrous"
+            }
         },
         "ed68d846-056b-11ec-939e-0ad8e3c9254f": {
             "name": "Body25",
@@ -605,8 +585,7 @@
                 },
                 "area": 0.5927893706417556,
                 "volume": 0.012596438221709643
-            },
-            "material_category": "Metal_Non-Ferrous"
+            }
         },
         "ed6afb2e-056b-11ec-9686-0ad8e3c9254f": {
             "name": "Body26",
@@ -624,8 +603,7 @@
                 },
                 "area": 0.053721234376385436,
                 "volume": 0.0005513495107050345
-            },
-            "material_category": "Metal_Non-Ferrous"
+            }
         },
         "ed6b495c-056b-11ec-852e-0ad8e3c9254f": {
             "name": "Body27",
@@ -643,8 +621,7 @@
                 },
                 "area": 0.1463757330201592,
                 "volume": 0.0021604578446595283
-            },
-            "material_category": "Metal_Non-Ferrous"
+            }
         },
         "ed6b978a-056b-11ec-b8a3-0ad8e3c9254f": {
             "name": "Body28",
@@ -662,8 +639,7 @@
                 },
                 "area": 0.14637573302015858,
                 "volume": 0.002160457844659392
-            },
-            "material_category": "Metal_Non-Ferrous"
+            }
         },
         "ed6be5b4-056b-11ec-a240-0ad8e3c9254f": {
             "name": "Body29",
@@ -681,8 +657,7 @@
                 },
                 "area": 0.053721234376385436,
                 "volume": 0.0005513495107050338
-            },
-            "material_category": "Metal_Non-Ferrous"
+            }
         },
         "ed6c33ba-056b-11ec-9d04-0ad8e3c9254f": {
             "name": "Body30",
@@ -700,8 +675,7 @@
                 },
                 "area": 4.049366582147699,
                 "volume": 0.2392888729157568
-            },
-            "material_category": "Metal_Non-Ferrous"
+            }
         },
         "ed6ca8e4-056b-11ec-97c8-0ad8e3c9254f": {
             "name": "Body31",
@@ -719,8 +693,7 @@
                 },
                 "area": 0.1463757330219886,
                 "volume": 0.0021603780882502818
-            },
-            "material_category": "Metal_Non-Ferrous"
+            }
         },
         "ed6cf724-056b-11ec-8f8c-0ad8e3c9254f": {
             "name": "Body32",
@@ -738,8 +711,7 @@
                 },
                 "area": 0.053721234376385436,
                 "volume": 0.0005513495107050351
-            },
-            "material_category": "Metal_Non-Ferrous"
+            }
         },
         "ed6d452e-056b-11ec-a2d6-0ad8e3c9254f": {
             "name": "Bolt",
@@ -757,8 +729,7 @@
                 },
                 "area": 0.38611880618566535,
                 "volume": 0.016489762573854413
-            },
-            "material_category": "Metal_Non-Ferrous"
+            }
         }
     },
     "contacts": [
@@ -4014,8 +3985,6 @@
         "body_count": 38,
         "area": 45.57509794543668,
         "volume": 1.8646257829996662,
-        "density": 0.007850000000000001,
-        "mass": 0.014637312396547381,
         "center_of_mass": {
             "type": "Point3D",
             "x": 1.0375000412157855,
