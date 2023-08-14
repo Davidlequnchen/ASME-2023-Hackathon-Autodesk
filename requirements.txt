@@ -1,0 +1,11 @@
+numpy
+scikit-learn
+pandas
+seaborn
+matplotlib
+requests
+tqdm
+plotly==5.13.1
+plotly-express==0.4.1
+openai
+backoff
