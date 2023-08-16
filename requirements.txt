@@ -1,5 +1,6 @@
 scikit-learn
 scikit-learn-intelex
+imbalanced-learn==0.11.0
 seaborn
 dpctl==0.11.3
 matplotlib
