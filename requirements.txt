@@ -12,6 +12,8 @@ click==8.0.3
 et-xmlfile==1.1.0
 Flask==2.0.2
 idna==3.3
+xgboost==1.7.6
+lightgbm==4.0.0
 itsdangerous==2.0.1
 MarkupSafe==2.0.1
 numpy==1.21.3
