@@ -1,6 +1,3 @@
-# ASME-2023 Hackathon Autodesk
- This is the repository for ASME IDETC2023 Autodesk Hackathon challenge
-
 # ASME IDETC 2023 Hackathon - Autodesk Problems
 
 ## Overview
